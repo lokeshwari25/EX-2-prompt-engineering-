@@ -26,6 +26,6 @@ Analysis of how prompt clarity impacts the quality, accuracy, and depth of ChatG
 Summary of findings with insights on how to structure prompts for optimal results when using ChatGPT.
 
 
-# OUTPUT
+
 
 # RESULT: The prompt for the above said problem executed successfully
