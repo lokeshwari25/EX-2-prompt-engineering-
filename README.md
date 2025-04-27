@@ -27,5 +27,8 @@ Summary of findings with insights on how to structure prompts for optimal result
 
 
 # OUTPUT
+$git add
+
+
 
 # RESULT: The prompt for the above said problem executed successfully
